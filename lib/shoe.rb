@@ -6,6 +6,7 @@ class Shoe
   attr_reader :brand
 
   def cobble
+    
     puts "Shoe has been repaired"
   end
 end
